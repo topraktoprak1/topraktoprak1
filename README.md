@@ -1,7 +1,3 @@
-Here is a personalized README profile based on your background in financial mathematics, software development, and your current interests.
-
----
-
 # 👋 Hi
 
 I am a **Graduate Student** currently pursuing an **MS in Financial Mathematics**, building on a solid foundation with a **Bachelor’s degree in Statistics**. I bridge the gap between complex quantitative finance and modern software engineering.
